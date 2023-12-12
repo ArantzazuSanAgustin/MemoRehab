@@ -1,5 +1,5 @@
 # MemoRehab
-Data repository of *"Transcranial magnetic stimulation combined with endogenous human hippocampal and motor cortical activity enhances memory"* scientific research article published on Plos One, available here: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295413.
+Data repository of *Transcranial magnetic stimulation combined with endogenous human hippocampal and motor cortical activity enhances memory* scientific research article published on Plos One, available here: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295413.
 
 In this repository you will find the data analysed in "Transcranial magnetic stimulation combined with endogenous human hippocampal and motor cortical activity enhances memory" article which gave rise to the corresponding results.
 
